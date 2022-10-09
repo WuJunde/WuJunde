@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junde Wu
-- 🧑‍💻 I'm currently a senior research scientist🧑‍🔬 in Baidu. Previously I co-funded Panoptes Group🤩, a start-up building checkout-free grocery vision system.
+- 🧑‍💻 I'm currently a senior research scientist🧑‍🔬 in Baidu. Previously I co-funded Panoptes Group🤩, a start-up building checkout-free grocery vision system. It is acquired by SenseTime in 2021 
 - 👀 I’m interested in artifical intellegience (machine learning, deep learning, computer vision, etc)
 - 💞️ I love building things for social good🧑‍🔧 and exploring how things work🤯. My previous works are published on CVPR, ECCV, IEEE TIP, MICCAI, etc. 
 - 📫 Email📨 me for the cooperations: jundewu@ieee.org and See my personal news📰 on twitter: @JundeMorsenWu
