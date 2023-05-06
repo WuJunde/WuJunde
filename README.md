@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junde Wu. A Geek, Effective Altruist, Entrepreneur, and Video Game Addict.
 - 🧑‍💻 I'm now a senior research scientist🧑‍🔬 at Baidu. I previously co-funded Panoptes Group🤩, a startup building checkout-free grocery vision system.
-- 👀 I’m interested in Buddhism, artificial intelligence, medicine, video games.
+- 👀 I’m interested in Buddhism, Artificial Intelligence, Medicine, Video Games.
 - 💞️ I like building things for social good🧑‍🔧 and exploring how things work🤯. Many of my thoughts and works are published on academic conferences/journals, like CVPR, ECCV, IEEE TIP, MICCAI, etc. Check my [Google Schorlar](https://scholar.google.com/citations?user=FZSKG-AAAAAJ&hl=en  )🎓 
 - 📫 Welcome to email 📨 : jundewu@ieee.org. See my personal news📰 on twitter: [@JundeMorsenWu](https://twitter.com/JundeMorsenWu)
 
