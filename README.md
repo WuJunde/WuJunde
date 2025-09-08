@@ -1,7 +1,5 @@
 AI Reseacher, Engineer, Founder
 
-Some of my Links
-
 [Google Schorlar](https://scholar.google.com/citations?user=FZSKG-AAAAAJ&hl=en)
 
 [LinkedIn](https://www.linkedin.com/in/junde-wu-712187257/)
