@@ -1,4 +1,6 @@
-AI Reseacher, Engineer, Founder
+I'm a AI researcher, engineer and general tinkerer and inventor. You can find more about me below:
+
+### Links
 
 [Google Schorlar](https://scholar.google.com/citations?user=FZSKG-AAAAAJ&hl=en)
 
