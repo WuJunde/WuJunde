@@ -1,6 +1,5 @@
 obscure intellectual, general tinkerer, amateur inventor. find more below:
 
-### Links
 
 [Google Schorlar](https://scholar.google.com/citations?user=FZSKG-AAAAAJ&hl=en)
 
