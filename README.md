@@ -1,4 +1,4 @@
-I'm a AI researcher, engineer and general tinkerer and inventor. You can find more about me below:
+obscure intellectual, general tinkerer, amateur inventor. find more below:
 
 ### Links
 
