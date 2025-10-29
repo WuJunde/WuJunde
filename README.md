@@ -1,4 +1,4 @@
-obscure intellectual, general tinkerer, amateur inventor. find more below:
+obscure intellectual, general tinkerer, amateur inventor.
 
 
 [Google Schorlar](https://scholar.google.com/citations?user=FZSKG-AAAAAJ&hl=en)
